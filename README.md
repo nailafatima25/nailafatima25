@@ -1,4 +1,41 @@
-## Hi there 👋
+# Hi, I'm Naila 👋
+
+🎓 Computer Science Student at University of Illinois at Chicago  
+💻 Aspiring Software Developer  
+🌱 Currently learning C++, JavaScript, and Web Development  
+
+---
+
+## 👩‍💻 About Me
+I come from a biological science background where I developed strong analytical thinking skills through science-focused coursework. Over time, I became interested in how technology can be used to solve real-world problems, which led me to explore computer science and software development.
+
+During the summer, I completed introductory coursework in .NET full stack development, HTML, and CSS. This experience helped me understand how applications and websites are built and sparked my interest in programming. I especially enjoy the creative aspect of development—turning ideas into functional applications and designing systems with both structure and purpose.
+
+I am currently pursuing a Bachelor’s degree in Computer Science at the University of Illinois at Chicago and seeking internships or entry-level opportunities. I am motivated to continue learning, open to feedback, and eager to grow as a developer.
+
+---
+
+## 🛠️ Skills
+- C++
+- JavaScript
+- HTML & CSS
+- .NET Fundamentals
+- Problem Solving
+- Object-Oriented Programming
+
+---
+
+## 📂 Projects
+Here are some of my projects:
+
+- 🔹 C++ Calculator – Performs basic arithmetic operations  
+- 🔹 Number Guessing Game – Interactive console-based game  
+- 🔹 (Add more projects here as you build them)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: (paste your link)
 
 <!--
 **nailafatima25/nailafatima25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
