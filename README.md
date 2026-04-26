@@ -28,9 +28,10 @@ I am currently pursuing a Bachelor’s degree in Computer Science at the Univers
 ## 📂 Projects
 Here are some of my projects:
 
-- 🔹 C++ Calculator – Performs basic arithmetic operations  
-- 🔹 Number Guessing Game – Interactive console-based game  
-- 🔹 (Add more projects here as you build them)
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Cricket Player Management](paste-your-link-here) | A console app to manage cricket player stats — add, update, search, sort, and save players to file | C++ |
+| [Travel Picks](paste-your-link-here) | A web app to browse travel destinations, filter by category, view itineraries, and save favorites | HTML, CSS, JavaScript |
 
 ---
 
