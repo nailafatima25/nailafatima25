@@ -30,7 +30,7 @@ Here are some of my projects:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Travel Picks](paste-your-link-here) | A web app to browse travel destinations, filter by category, view itineraries, and save favorites | HTML, CSS, JavaScript |
+| [Travel Picks]([paste-your-link-here](https://nailafatima25.github.io/Travel-Destinations/)) | A web app to browse travel destinations, filter by category, view itineraries, and save favorites | HTML, CSS, JavaScript |
 
 ---
 
