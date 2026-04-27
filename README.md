@@ -30,7 +30,6 @@ Here are some of my projects:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Cricket Player Management](paste-your-link-here) | A console app to manage cricket player stats — add, update, search, sort, and save players to file | C++ |
 | [Travel Picks](paste-your-link-here) | A web app to browse travel destinations, filter by category, view itineraries, and save favorites | HTML, CSS, JavaScript |
 
 ---
