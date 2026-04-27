@@ -36,7 +36,7 @@ Here are some of my projects:
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: (paste your link)
+- LinkedIn: (www.linkedin.com/in/nailafatima25)
 
 <!--
 **nailafatima25/nailafatima25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
